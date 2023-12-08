@@ -7,6 +7,7 @@ SmartSummary is an advanced text summarization tool that leverages natural langu
 
 ## Features
 - **Extractive Summarization**: Implements algorithms to identify and extract key sentences from the text, ensuring the original context is maintained.
+  
 -**Text Summarization**: This is implemented using TF-IDF and Cosine Similarity
 
 ## Technologies Used
